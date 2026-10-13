@@ -1,0 +1,75 @@
+# ==========================================
+# DataMites AI Capstone Project
+# Traffic Sign Classification using CNN
+# ==========================================
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.key
+credentials.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Google Colab temporary files
+/content/
+sample_data/
+
+# Dataset folders
+Train/
+Test/
+Meta/
+train/
+test/
+meta/
+data/
+dataset/
+datasets/
+
+# Dataset files
+*.zip
+*.csv
+
+# Temporary image files
+*.tmp
+*.log
+
+# Trained model files
+*.keras
+*.h5
+*.hdf5
+*.tflite
+*.pkl
+
+# TensorFlow checkpoints
+checkpoints/
+*.ckpt*
+events.out.tfevents.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build files
+build/
+dist/
+*.egg-info/
