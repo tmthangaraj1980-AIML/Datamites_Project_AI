@@ -1,6 +1,5 @@
 # ==========================================
 # DataMites AI Capstone Project
-# Traffic Sign Classification using CNN
 # ==========================================
 
 # Python cache
@@ -73,3 +72,5 @@ desktop.ini
 build/
 dist/
 *.egg-info/
+
+Data/
