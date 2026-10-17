@@ -1,0 +1,8 @@
+# Libraries used for Food-101 classification experiments
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+Pillow
+jupyter

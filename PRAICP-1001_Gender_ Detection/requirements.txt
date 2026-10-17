@@ -1,0 +1,8 @@
+# Core libraries used in the project notebook
+numpy
+pandas
+matplotlib
+Pillow
+scikit-learn
+tensorflow
+jupyter
